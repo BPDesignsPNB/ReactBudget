@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/ReactBudget/static/css/main.f11b4866.chunk.css"
   },
   {
-    "revision": "16b6f60cfe72fbbe39a3278b87e6aed0",
+    "revision": "86b61ed1be24dcb80a0941da2c54b0b2",
     "url": "/ReactBudget/index.html"
   }
 ];
